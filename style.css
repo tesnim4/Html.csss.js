@@ -1,0 +1,20 @@
+#body{
+    background-color:pink;
+}
+.title{
+    background-color: brown;
+    color:white;
+    font-size: larger;
+}
+.p{
+    padding: 1cm;
+    margin: 1cm;
+}
+#image{
+   
+        width: 200px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+    
+}
